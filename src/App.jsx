@@ -65,7 +65,9 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Form in React Test By Wiwat Lephon</h1>
+            <h1>Form in React Test</h1>
+            <h2>DevOps CI/CD Deploy ReactJS by Github Actions </h2>
+            <h3>By Wiwat Lephon</h3>
             <fieldset>
                 <form action="#" method="get">
                     <label for="firstname">
